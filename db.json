@@ -1,5 +1,5 @@
 {
-	"cursos":[
+	"courses":[
 		{"id":1,"fullname":"Epistemes y Problemas","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
 		{"id":2,"fullname":"Lógicas Investigativas I","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
 		{"id":3,"fullname":"Lógicas Investigativas II","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
