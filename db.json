@@ -1,16 +1,22 @@
 {
-	"courses":[
-		{"id":1,"fullname":"Epistemes y Problemas","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
-		{"id":2,"fullname":"Lógicas Investigativas I","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
-		{"id":3,"fullname":"Lógicas Investigativas II","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
-		{"id":4,"fullname":"Realidad histórica y prática educativa","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
-		{"id":5,"fullname":"Diversidad: Época y Contexto","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
-		{"id":6,"fullname":"Sociedad y organizaciones educativas","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
-		{"id":7,"fullname":"Sujeto, realidad, grupos e instituciones","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
-		{"id":8,"fullname":"Procesos de inclusión y exclusión social y otros mundos","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
-		{"id":9,"fullname":"Formas de organización sociopolítica","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
-		{"id":10,"fullname":"Subjetividades situadas","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
-		{"id":11,"fullname":"Diversidades y singularidades","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
-		{"id":12,"fullname":"Expresiones de la diversidad en el ámbito social y cultural","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"}
-	]
+	"results":[
+		{"id":1,"nombre":"Epistemes y Problemas","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
+		{"id":2,"nombre":"Lógicas Investigativas I","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
+		{"id":3,"nombre":"Lógicas Investigativas II","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
+		{"id":4,"nombre":"Realidad histórica y prática educativa","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
+		{"id":5,"nombre":"Diversidad: Época y Contexto","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
+		{"id":6,"nombre":"Sociedad y organizaciones educativas","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
+		{"id":7,"nombre":"Sujeto, realidad, grupos e instituciones","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
+		{"id":8,"nombre":"Procesos de inclusión y exclusión social y otros mundos","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
+		{"id":9,"nombre":"Formas de organización sociopolítica","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
+		{"id":10,"nombre":"Subjetividades situadas","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
+		{"id":11,"nombre":"Diversidades y singularidades","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
+		{"id":12,"nombre":"Expresiones de la diversidad en el ámbito social y cultural","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"}
+	],
+	"info":{
+		"seed": "2da87e9305069f1d",
+		"results": 1,
+		"page": 1,
+		"version": "1.1"
+	}
 }
