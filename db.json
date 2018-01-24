@@ -1,6 +1,6 @@
 {
 	"results":[
-		{"id":1,"nombre":"Epistolas y Problemas","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
+		{"id":1,"nombre":"Epistemes y Problemas","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
 		{"id":2,"nombre":"Lógicas Investigativas I","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
 		{"id":3,"nombre":"Lógicas Investigativas II","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
 		{"id":4,"nombre":"Realidad histórica y prática educativa","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
