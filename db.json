@@ -13,6 +13,22 @@
 		{"id":11,"nombre":"Diversidades y singularidades","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"},
 		{"id":12,"nombre":"Expresiones de la diversidad en el ámbito social y cultural","startdate":"2017-01-01T00:00:00.000Z","enddate":"2017-03-31T23:59:59.999Z"}
 	],
+	"usuarios":[{
+		"idUsuario":1,
+		"nombres":"Rogelio Eduardo",
+		"apellidos":"Bañol Henao",
+		"username":"rbanol",
+		"password":"$2y$12$QYm/AMEmqs6wHZkRJxAmXeQlWY/gtqBxc46BZDYwWIsyyrapGkoPe",
+		"identificacion":18497640,
+		"correo":"rbanol@umanizales.edu.co",
+		"telefono":3178601320,
+		"activo":true,
+		"confirmado":true,
+		"direccion":"Cl 69 No 9 A 85",
+		"ciudad":"Manizales",
+		"departamento":"Caldas",
+		"tipo":"Administrador"
+	}],
 	"info":{
 		"seed": "2da87e9305069f1d",
 		"results": 1,
